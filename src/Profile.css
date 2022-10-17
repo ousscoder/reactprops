@@ -1,0 +1,31 @@
+img {
+
+    width: 250px;
+    height: 250px;
+}
+
+.Pro {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid ;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+
+
+}
+
+button {
+
+    border: solid 2px;
+    height:50px;
+    width: 150px;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    font-style: inherit;
+    font-size: large;
+
+}
